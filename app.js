@@ -11,7 +11,7 @@ let O_score = 0;
 let X_score = 0;
 let gameEnd = false;
 
-//test
+//tests
 if (localStorage.getItem("oScore")) {
   O_score = localStorage.getItem("oScore");
 } else {
